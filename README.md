@@ -6,7 +6,7 @@
 
 📫 Contact: Stotts24@outlook.com
 
-🏔️ Fun Fact: When I'm not coding, I enjoy traveling and conquering challenging hikes, such as Angel's Landing in Zion National Park!
+🏔️ Fun Fact: When I'm not coding, I enjoy traveling and conquering challenging hikes, such as Angel's Landing in Zion National Park.
 
 🔍 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
 
