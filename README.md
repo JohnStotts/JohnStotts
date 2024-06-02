@@ -2,15 +2,11 @@
 
 👀 Interests: Sports and Technology
 
-🌱 Currently Learning: Multiple programming languages
-
-💞️ Looking to Collaborate On: Pair coding projects
+🌱 Currently Learning: More programming languages 
 
 📫 Contact: Stotts24@outlook.com
 
-😄 Pronouns: He/Him
-
-⚡ Fun Fact: The first computer virus, Creeper, was created in 1970, followed by the first antivirus program, Reaper.
+⚡ Fun Fact: When I'm not coding, I enjoy conquering tough hikes, such as Angel's Landing in Zion!
 <!---
 JohnStotts/JohnStotts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
