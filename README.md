@@ -2,7 +2,7 @@
 
 🏀 Interests: Sports and Technology
 
-📚 Currently Learning: More programming languages... always!
+📚 Currently Learning: More programming languages!
 
 📫 Contact: Stotts24@outlook.com
 
