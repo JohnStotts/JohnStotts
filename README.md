@@ -1,4 +1,4 @@
-👋 Hi, my name is John Stotts
+👋 Hi, my name is John
 
 🏀 Interests: Sports and Technology
 
